@@ -1,0 +1,12 @@
+{
+  "name": "node-db4-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prototype109/node-db4-challenge.git",
+  "author": "Brandon Nichols <brandonaronnichols@gamil.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.20.2",
+    "sqlite3": "^4.1.0"
+  }
+}
